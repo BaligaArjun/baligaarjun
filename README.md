@@ -1,6 +1,7 @@
 ## Hi there 👋,  I'm Arjun 
 
-- 🔭 I’m currently working on Python and SQL projects, building small tools and experiments.
-- 🌱 I’m currently learning Machine Learning and AI, starting with model building.
-- 💬 Ask me about Python basics, SQL queries, and visualization. 
+About Me
+i work on data analytics projects using python, SQl, Excel and powerbi, focusing on answering real business questions around operations, finance and customer behaviour.
+i enoy working with messy data sets, defining the right questions, and building clear decison ready insights through analysis and visualization.
+currently i am explanding my skills in python based analysis and exploring machine learning fundamentals alongside hands on projects.
 
